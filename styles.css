@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #f4f4f4; /* Light background */
+ }
+ 
+ h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+ }
+ 
+ #url-input,
+ #search-input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 10px;
+ }
+ 
+ button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+ }
+ 
+ button:hover {
+    background-color: #0056b3;
+ }
+ 
+ #loading-message,
+ #url-list,
+ #summary {
+    margin-top: 10px;
+ }
+ 
+ #url-list div {
+    margin-bottom: 5px; /* Space between URLs */
+ }
