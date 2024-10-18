@@ -4,7 +4,7 @@ Sitemap-retriever V3 is a Chrome extension that allows users to easily generate 
 
 **Extension structure**
 
-my-sitemap-extension/
+**my-sitemap-extension/
 │
 ├── manifest.json
 ├── background.js
@@ -14,7 +14,8 @@ my-sitemap-extension/
 └── icons/
     ├── icon16.png
     ├── icon48.png
-    └── icon128.png
+    └── icon128.png**
+    
 **Features**
 URL Input Field: Enter any website URL to generate its sitemap.
 Retrieve Sitemap: Click the button to crawl the website and retrieve the sitemap.
@@ -39,11 +40,14 @@ Enter https://example.com in the URL field.
 Click "Retrieve" to start generating the sitemap.
 Once completed, download the file by clicking on "Download CSV".
 Review the status codes for each URL listed in the extension.
+
 **Contributing**
 We welcome contributions! If you have suggestions or improvements, please submit a pull request or open an issue on our GitHub repository.
-License
+
+**License**
 This project is licensed under the MIT License. See the LICENSE file for more details.
-Contact
+
+**Contact**
 For support or inquiries, please reach out via:
-Email: support@example.com
+Email: kirankumarvel.work@gmail.com
 This README provides essential information for users to effectively utilize Sitemap-retriever V3's features, ensuring a seamless experience in generating and managing sitemaps.
